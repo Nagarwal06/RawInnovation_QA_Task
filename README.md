@@ -20,10 +20,10 @@ _features_: All test suite and test cases which are to be executed for different
 **Project Structure:** 
    * evernote_qa
        * feature
-          * create_note.feature
-          * invalid_login.feature
-          * valid_login.feature
-          * verify_note.feature
+          * login_invalid.feature
+          * login_valid.feature
+          * note_create.feature
+          * note_verify.feature
        * pages
           * get_webdriver.py
           * home_page.py
