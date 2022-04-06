@@ -20,7 +20,7 @@ create_note_xpath = "//button[@id='qa-NAVBAR_NOTE_ADD_BUTTON']"
 iframe_id = 'qa-COMMON_EDITOR_IFRAME'
 note_title_xpath = "//en-noteheader/div[1]/div[2]/textarea[1]"
 note_description_xpath = "//en-note[@id='en-note']"
-note_title = "Test_for_evernote_111111"
+note_title = "Test_for_evernote"
 note_description = "Creatad a note to test the note functionality"
 account_menu = "//div[@id='qa-NAV_USER']/div[1]"
 logout_btn_id = "qa-ACCOUNT_DROPDOWN_LOGOUT"
